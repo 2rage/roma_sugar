@@ -21,9 +21,6 @@ int main() {
     for (int i = 0; i < n; i++) {
         printf("%d ", a[i]);
     }
-
-    //printf("\nНажмите Enter для выхода...");
-    //getchar();
     
     return 0;
 }
