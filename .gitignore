@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+
+# VS Code
+.vscode/
+
+# GCC / Clang
+main
+*.out
+*.exe
+
+# OS
+.DS_Store
+Thumbs.db
